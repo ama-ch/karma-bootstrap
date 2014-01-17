@@ -1,0 +1,26 @@
+{
+  "name": "karma-bootstrap",
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "karma start karma.conf.js --browsers PhantomJS --singleRun true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ama-ch/karma-bootstrap.git"
+  },
+  "author": "ama-ch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ama-ch/karma-bootstrap/issues"
+  },
+  "homepage": "https://github.com/ama-ch/karma-bootstrap",
+  "devDependencies": {
+    "karma-mocha": "~0.1.1",
+    "karma-expect": "~1.0.0",
+    "karma-sinon": "~1.0.0",
+    "karma-growl-reporter": "~0.1.1",
+    "karma-spec-reporter": "0.0.8"
+  }
+}
