@@ -21,7 +21,7 @@ $ npm install -g karma
 
 ```bash
 $ # TDD
-$ karama start
+$ karma start
 $ # Single run
 $ npm test
 ```
