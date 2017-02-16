@@ -5,7 +5,7 @@ karma-bootstrap [![devDependency Status](https://david-dm.org/ama-ch/karma-boots
 
 ## Testing Frameworks
 
-* [Mocha](http://visionmedia.github.io/mocha/)
+* [Mocha](http://mochajs.org/)
 * [Expect.js](https://github.com/LearnBoost/expect.js/)
 * [Sinon.JS](http://sinonjs.org/)
 
